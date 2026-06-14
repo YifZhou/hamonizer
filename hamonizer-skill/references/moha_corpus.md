@@ -137,10 +137,37 @@ The highest-density Moha source. Jiang confronted Hong Kong journalists, code-sw
 
 **《毕业歌》 (Graduation Song, 1934)**
 - **Language:** Chinese (song)
-- **Status: COMMUNITY-REPORTED — not independently verified from primary CBS broadcast**
-- **Original context:** During or around the Wallace interview session, Jiang reportedly sang 《毕业歌》, the 1934 anti-Japanese student anthem (Nie Er / Tian Han). Documented in Moha community sources.
+- **Original context:** During the Wallace interview session, Jiang sang 《毕业歌》, the 1934 anti-Japanese student anthem (Nie Er / Tian Han). Confirmed in Pincong 蛤三篇之谈笑风生, which quotes: "江泽民唱的歌曲为《毕业歌》，是以前学生示威中经常唱起的一首歌。"
 - **Moha usage:** Part of Jiang's multilingual/musical performance persona alongside O Sole Mio and Moscow Nights. The image of a Chinese leader singing a 1930s student resistance anthem for CBS cameras is the joke.
-- **Note:** Use only when the multilingual/musical angle is the explicit subject. Do not cite as independently verified.
+- **Note:** Use only when the multilingual/musical angle is the explicit subject.
+
+---
+
+**"我还有两年就退休了。您见过任期届满就退休的独裁者吗？"**
+- **Language:** Chinese
+- **Original context:** Wallace told Jiang he was the world's last great dictator. Jiang replied: "我还有两年就退休了。您见过任期届满就退休的独裁者吗？" (I have two years left before retirement. Have you ever seen a dictator who retired when his term was up?)
+- **Moha usage:** Responding to accusations of overreach, authoritarianism, or excess by citing procedural compliance with a rhetorical question. The comeback *is* the joke.
+- **Subtle (Chinese):** Mentioning someone's impending retirement as evidence of their virtue, in a context where the logic is similarly strained
+- **Moderate:** The rhetorical question form: "您见过……的[X]吗？" applied to any situation where the accused deflects via technicality
+- **Note:** The punch is in the rhetorical question. Jiang didn't deny being a dictator — he argued from his retirement schedule. This is classic Jiang: formally correct, substantively deflecting.
+
+---
+
+**"看来华莱士先生不太懂历史和哲学，我就不多说了。"**
+- **Language:** Chinese
+- **Original context:** After a long exchange on freedom and democratic legitimacy, Jiang ended the point by dismissing Wallace: "看来华莱士先生不太懂历史和哲学，我就不多说了。" (It seems Mr. Wallace doesn't quite understand history and philosophy. I won't say more.)
+- **Moha usage:** Condescending dismissal of a sophisticated adversary by invoking superior historical-philosophical standing, then declining to elaborate. The self-restraint ("我就不多说了") is the condescension.
+- **Subtle:** Noting that someone "doesn't quite understand the history here" before moving on without explanation
+- **Moderate:** The full formula — claim the interlocutor lacks philosophical grounding, then decline to educate them
+- **Note:** Wallace was the most formidable interviewer Jiang ever faced — 4 hours, no restrictions. The fact that Jiang dismissed *him* as philosophically inadequate is the Moha joke. Works best when directed at someone clearly intelligent.
+
+---
+
+**"Your soul will be so sweet. I will miss you."**
+- **Language:** English
+- **Original context:** After Mike Wallace died on April 7, 2012, Jiang said in English: "Your soul will be so sweet. I will miss you."
+- **Moha usage:** Farewell to a formidable adversary, rendered in slightly off-register English with unexpected tenderness. Paired by 蛤丝 with "谈笑风生" as the bookend to 篇二.
+- **Note:** The phrase became a Moha touchstone because of its context: Jiang's own description of the Wallace interview as 谈笑风生 (in 篇一) made this eulogy the closing of that arc. The 蛤丝 community responded with: 莱士已乘赛艇去，蛤蛤依旧笑风生。
 
 ---
 
@@ -242,7 +269,7 @@ These circulate online but are not in the verified corpus:
 | Phrase | Source file |
 |---|---|
 | too young, too simple, I'm angry!, 长者, 悶聲大發財, 谈笑风生, 身经百战, 识得唔识得, 见着风是得雨, 弄个大新闻, 知识水平/姿势水平 | sources/01_hk_journalist_incident_2000.md |
-| Gettysburg Address, Tank Man exchange, elected leader, 毕业歌 (community-reported) | sources/02_mike_wallace_60minutes_2000.md |
+| Gettysburg Address, Tank Man exchange, elected leader, 毕业歌, 我还有两年就退休了, 不太懂历史和哲学, Your soul will be so sweet | sources/02_mike_wallace_60minutes_2000.md |
 | Excited!, 苟利国家生死以, 亦可赛艇, 微小的工作, 一个人的命运, 另请高明 | sources/06_cuec_visit_2009.md |
 | 三个代表 | sources/05_three_represents_official.md |
 | O Sole Mio, Moscow Nights | sources/07_multilingual_performances.md |

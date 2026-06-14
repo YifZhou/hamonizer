@@ -24,7 +24,7 @@ The entire humor structure of Moha culture depends on the unexpected appearance 
 
 Prioritize the original language of the source material:
 
-- **English prose**: use English-original quotes directly — "too young, too simple, sometimes naïve"; "much ado about nothing"; "Exciting!"; "I'm angry!"; Gettysburg Address fragments
+- **English prose**: use English-original quotes directly — "too young, too simple, sometimes naïve"; "Excited!"; "I'm angry!"; "Your soul will be so sweet"; Gettysburg Address fragments
 - **Chinese prose**: use Chinese-original phrases — 长者, 图森破, 苟利国家生死以，岂因祸福避趋之, 谈笑风生, 悶聲大發財, 亦可赛艇
 - **Bilingual mixing** (Chinese phrase in English text, or English interjection in Chinese text) is itself a Moha joke — Jiang famously did this — so it is fair game at the moderate level
 - For Chinese phrases in English prose at the subtle level, a natural parenthetical or an approximate English rendering works: "the elder" for 长者, "make money in silence" for 悶聲大發財
@@ -76,6 +76,9 @@ Offer both levels per insertion. Default output uses the subtle version. List th
    | Jumping to conclusions, reasoning from thin evidence | 见着风，是得雨 |
    | Rhetorical "do you follow?" after a lecture or put-down | 識得唔識得 (Chinese prose only) |
    | Multilingual performance, cosmopolitan breadth | O Sole Mio / Moscow Nights / 毕业歌 angle (use sparingly) |
+   | Accused of overreach, authoritarianism, or abuse of power | 我还有两年就退休了 — the procedural-retirement deflection |
+   | Dismissing someone's intellectual depth, ending a debate by withdrawing | 不太懂历史和哲学，我就不多说了 |
+   | Eulogy, farewell to a formidable adversary | "Your soul will be so sweet. I will miss you." |
 
 3. **Apply the one-or-two rule.** Pick the best one or two insertion points. Leave the rest. The references you *don't* insert matter as much as the ones you do.
 

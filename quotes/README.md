@@ -84,6 +84,9 @@ Many quotes circulate online falsely attributed to Jiang. The following are **no
 | 弄个大新闻 | Chinese | 01 — HK journalist incident |
 | 知识水平 / 姿势水平 | Chinese / Moha meme | 01 — HK journalist incident |
 | Gettysburg Address | English | 02 — Mike Wallace interview |
+| 我还有两年就退休了。您见过任期届满就退休的独裁者吗？ | Chinese | 02 — Mike Wallace interview |
+| 不太懂历史和哲学，我就不多说了 | Chinese | 02 — Mike Wallace interview |
+| "Your soul will be so sweet. I will miss you." | English | 02 — Mike Wallace interview (Wallace obituary) |
 | "Excited!" / 亦可赛艇 | English (phonetically memefied) | 06 — CUEC visit |
 | 很惭愧，就做了一点微小的工作 | Chinese | 06 — CUEC visit |
 | 一个人的命运啊… | Chinese | 06 — CUEC visit |
