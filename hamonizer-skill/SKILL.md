@@ -55,7 +55,7 @@ Offer both levels per insertion. Default output uses the subtle version. List th
 
 1. **Identify the register.** Read the passage and determine: formal or informal? Chinese, English, or mixed? Scientific paper, email, news, grant prose, casual? If the context is too ambiguous to choose references appropriately, ask before proceeding.
 
-2. **Find natural insertion points.** Look for these semantic hooks:
+2. **Find natural insertion points.** The table below lists common semantic hooks — use it as a starting point, not an exhaustive constraint. If a passage contains a natural opening for a reference that is in the corpus but not listed here, use it. The only hard limits are: (a) every reference must trace to `references/moha_corpus.md`, and (b) the one-or-two rule.
 
    | Hook in the text | Reference to consider |
    |---|---|
@@ -75,8 +75,9 @@ Offer both levels per insertion. Default output uses the subtle version. List th
    | Battle-tested experience | 身经百战 |
    | Expertise, sophistication, intellectual level | 知识水平 (subtle) / 姿势水平 (moderate, Chinese only) |
    | Sensationalism, manufacturing drama, overreach | 弄个大新闻 |
-   | Jumping to conclusions, thin evidence | 见着风，是得雨 |
-   | Multilingual performance | O Sole Mio / Moscow Nights / 毕业歌 angle (use sparingly) |
+   | Jumping to conclusions, reasoning from thin evidence | 见着风，是得雨 |
+   | Rhetorical "do you follow?" after a lecture or put-down | 識得唔識得 (Chinese prose only) |
+   | Multilingual performance, cosmopolitan breadth | O Sole Mio / Moscow Nights / 毕业歌 angle (use sparingly) |
 
 3. **Apply the one-or-two rule.** Pick the best one or two insertion points. Leave the rest. The references you *don't* insert matter as much as the ones you do.
 
