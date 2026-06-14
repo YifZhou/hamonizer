@@ -25,18 +25,14 @@ The culture centers on three source videos, known as 蛤三篇 (Three Pieces Abo
 ```
 quotes/
 ├── README.md               ← This file
-├── sources/                ← One file per primary source event
-│   ├── 01_hk_journalist_incident_2000.md
-│   ├── 02_mike_wallace_60minutes_2000.md
-│   ├── 03_clinton_press_conference_1998.md
-│   ├── 04_barbara_walters_1990.md
-│   ├── 05_three_represents_official.md
-│   ├── 06_cuec_visit_2009.md
-│   └── 07_multilingual_performances.md
-└── by_language/            ← Quotes organized by language
-    ├── chinese.md          ← Mandarin/Cantonese quotes
-    ├── english.md          ← English quotes (spoken or interpreted)
-    └── other_languages.md  ← Italian, Russian
+└── sources/                ← One file per primary source event
+    ├── 01_hk_journalist_incident_2000.md
+    ├── 02_mike_wallace_60minutes_2000.md
+    ├── 03_clinton_press_conference_1998.md
+    ├── 04_barbara_walters_1990.md
+    ├── 05_three_represents_official.md
+    ├── 06_cuec_visit_2009.md
+    └── 07_multilingual_performances.md
 ```
 
 ---

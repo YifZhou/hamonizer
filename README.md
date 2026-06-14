@@ -18,18 +18,14 @@ hamonizer/
 │       └── moha_corpus.md  ← Canonical phrase library with source citations
 └── quotes/                 ← Verified Jiang Zemin quote corpus
     ├── README.md           ← Corpus documentation and verification policy
-    ├── sources/            ← One file per primary source event
-    │   ├── 01_hk_journalist_incident_2000.md   ← 蛤三篇 篇一
-    │   ├── 02_mike_wallace_60minutes_2000.md    ← 蛤三篇 篇二
-    │   ├── 03_clinton_press_conference_1998.md
-    │   ├── 04_barbara_walters_1990.md
-    │   ├── 05_three_represents_official.md
-    │   ├── 06_cuec_visit_2009.md               ← 蛤三篇 篇三
-    │   └── 07_multilingual_performances.md
-    └── by_language/        ← Quotes organized by language
-        ├── chinese.md
-        ├── english.md
-        └── other_languages.md
+    └── sources/            ← One file per primary source event
+        ├── 01_hk_journalist_incident_2000.md   ← 蛤三篇 篇一
+        ├── 02_mike_wallace_60minutes_2000.md    ← 蛤三篇 篇二
+        ├── 03_clinton_press_conference_1998.md
+        ├── 04_barbara_walters_1990.md
+        ├── 05_three_represents_official.md
+        ├── 06_cuec_visit_2009.md               ← 蛤三篇 篇三
+        └── 07_multilingual_performances.md
 ```
 
 ---
