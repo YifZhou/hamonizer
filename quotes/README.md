@@ -23,7 +23,7 @@ The culture centers on three source videos, known as 蛤三篇 (Three Pieces Abo
 ## Corpus Structure
 
 ```
-jiang-zemin-quotes/
+quotes/
 ├── README.md               ← This file
 ├── sources/                ← One file per primary source event
 │   ├── 01_hk_journalist_incident_2000.md
@@ -82,8 +82,17 @@ Many quotes circulate online falsely attributed to Jiang. The following are **no
 | 长者 (elder) | Chinese | 01 — HK journalist incident |
 | 悶聲大發財 | Chinese | 01 — HK journalist incident |
 | 我跟他谈笑风生 | Chinese | 01 — HK journalist incident |
-| "Much ado about nothing" | English (interpreted) | 04 — Barbara Walters |
-| 亦可赛艇 / "Exciting!" | English (phonetically memefied) | 06 — CUEC visit |
+| 身经百战 | Chinese | 01 — HK journalist incident |
+| 识得唔识得 | Cantonese (in Mandarin speech) | 01 — HK journalist incident |
+| 见着风，是得雨 | Cantonese proverb | 01 — HK journalist incident |
+| 弄个大新闻 | Chinese | 01 — HK journalist incident |
+| 知识水平 / 姿势水平 | Chinese / Moha meme | 01 — HK journalist incident |
+| Gettysburg Address | English | 02 — Mike Wallace interview |
+| "Excited!" / 亦可赛艇 | English (phonetically memefied) | 06 — CUEC visit |
+| 很惭愧，就做了一点微小的工作 | Chinese | 06 — CUEC visit |
+| 一个人的命运啊… | Chinese | 06 — CUEC visit |
+| 苟利国家生死以，岂因祸福避趋之 | Classical Chinese | 06 — CUEC visit |
+| 另请高明 | Chinese | 06 — CUEC visit |
 | 三个代表 | Chinese | 05 — Official CCP text |
 
 ---
