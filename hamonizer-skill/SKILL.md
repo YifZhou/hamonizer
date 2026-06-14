@@ -67,7 +67,6 @@ Offer both levels per insertion. Default output uses the subtle version. List th
    | Improbable career outcome, fate vs. effort | 一个人的命运啊，当然要靠自我奋斗，但是也要考虑到历史的行程 |
    | False modesty, reluctant acceptance | 另请高明 |
    | Listing achievements then dismissing them | 很惭愧，就做了一点微小的工作 |
-   | Cosmic or hyperbolic praise of a group/place | 天堂的下面是你们的天堂 |
    | Charming, relaxed conversation or collaboration | 谈笑风生 |
    | Making money quietly, discretion | 悶聲大發財 |
    | Democracy, people's government, equality | Gettysburg Address angle |

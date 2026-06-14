@@ -213,16 +213,6 @@ The highest-density Moha source. Jiang confronted Hong Kong journalists, code-sw
 
 ---
 
-**天堂的下面是你们的天堂**
-- **Language:** Chinese
-- **Original context:** Final words of the visit, addressed to the engineers: "天堂的下面是你们的天堂。" Adapts the classical saying 上有天堂，下有苏杭 (Above is heaven; below are Suzhou and Hangzhou) into a direct benediction.
-- **Moha usage:** Mock-cosmological praise; elevating any group or institution to near-divine status with a knowing misquotation. Also used as a closing benediction in 蛤丝 communities.
-- **Subtle:** "a kind of heaven for those who work here" as natural workplace praise; the classical echo is implicit
-- **Moderate:** 天堂的下面是你们的天堂 quoted directly as a closing line
-- **Note:** Particularly effective as a final sentence. The misquotation of the classical saying is part of the charm — Jiang made it his own.
-
----
-
 ## TIER 2 — Well-known but secondary references
 
 ---
@@ -265,6 +255,6 @@ These circulate online but are not in the verified corpus:
 | too young, too simple, I'm angry!, 长者, 悶聲大發財, 谈笑风生, 身经百战, 识得唔识得, 见着风是得雨, 弄个大新闻, 知识水平/姿势水平 | sources/01_hk_journalist_incident_2000.md |
 | Gettysburg Address, Tank Man exchange, elected leader, 毕业歌 (community-reported) | sources/02_mike_wallace_60minutes_2000.md |
 | Much ado about nothing | sources/04_barbara_walters_1990.md |
-| Exciting!, 苟利国家生死以, 亦可赛艇 | sources/06_cuec_visit_2009.md |
+| Excited!, 苟利国家生死以, 亦可赛艇, 微小的工作, 一个人的命运, 另请高明 | sources/06_cuec_visit_2009.md |
 | 三个代表 | sources/05_three_represents_official.md |
 | O Sole Mio, Moscow Nights | sources/07_multilingual_performances.md |
