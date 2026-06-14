@@ -73,7 +73,10 @@ Offer both levels per insertion. Default output uses the subtle version. List th
    | Democracy, people's government, equality | Gettysburg Address angle |
    | Anger, indignation | "I'm angry!" |
    | Battle-tested experience | 身经百战 |
-   | Multilingual performance | O Sole Mio / Moscow Nights angle (use sparingly) |
+   | Expertise, sophistication, intellectual level | 知识水平 (subtle) / 姿势水平 (moderate, Chinese only) |
+   | Sensationalism, manufacturing drama, overreach | 弄个大新闻 |
+   | Jumping to conclusions, thin evidence | 见着风，是得雨 |
+   | Multilingual performance | O Sole Mio / Moscow Nights / 毕业歌 angle (use sparingly) |
 
 3. **Apply the one-or-two rule.** Pick the best one or two insertion points. Leave the rest. The references you *don't* insert matter as much as the ones you do.
 

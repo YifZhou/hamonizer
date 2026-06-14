@@ -61,6 +61,65 @@ Wallace called Jiang a dictator during the interview. Jiang rejected the charact
 
 ---
 
+### Interview Logistics and Context
+
+- **Total recording:** 3 hours 57 minutes. The CBS broadcast aired only heavily edited excerpts.
+- **No question restrictions:** Jiang Zemin invited Wallace with no banned topics. His staff attempted to object to Wallace's questions; Jiang overruled them and let the interview proceed.
+- **First meeting:** Jiang and Wallace had met once before, in 1986, when Jiang was mayor of Shanghai.
+
+---
+
+### Opening Exchange (Community-transcribed fragment)
+
+The following brief exchange opens the interview. It is preserved in Chinese Moha community sources (not from the CBS broadcast or C-SPAN archive) and should be treated as community-transcribed, not independently verified verbatim:
+
+> **Jiang:** Time flies very fast.
+> **Wallace:** Yeah.
+> **Jiang:** We met for the first time in 1986.
+> **Wallace:** You and I?
+> **Jiang:** That's right. When I was mayor of Shanghai. … All friends!
+
+*(Source: Pincong.rocks community article on 蛤三篇. Not independently verified against primary broadcast.)*
+
+---
+
+### Jiang's Musical Performance: 《毕业歌》
+
+During or around the interview session, Jiang sang the 1934 patriotic student anthem 《毕业歌》("Graduation Song," composed by Nie Er, lyrics by Tian Han) — a song associated with anti-Japanese resistance. This performance is documented in Moha community sources. Independent verification against the CBS broadcast or C-SPAN archive is not available (the C-SPAN full broadcast may contain it; the CBS aired version does not show it).
+
+**Moha significance:** 毕业歌 became one of Jiang's signature musical performances alongside O Sole Mio and Moscow Nights. The image of a Chinese head of state singing a 1930s student resistance anthem for a CBS journalist is part of the Jiang theatrical persona.
+
+*(Source: Pincong.rocks community article. Attribution is community-reported, not independently verified from primary broadcast source.)*
+
+---
+
+### "Your soul will be so sweet. I will miss you."
+
+After CBS journalist Mike Wallace died on April 7, 2012, Jiang reportedly spoke or wrote these words in English as a farewell. The phrase became a Moha touchstone — particularly resonant because 谈笑风生 (lively conversation) was Jiang's own description of his rapport with Wallace in the 篇一 incident.
+
+**Status: UNVERIFIED as a direct Jiang quote.** This phrase circulates in Chinese Moha community sources as Jiang's reaction to Wallace's death, but no primary source (official statement, CCTV, Xinhua) has been identified confirming it. It may be a community creation or misattribution. Do not use as a verified quote.
+
+The 蛤丝 community commemorated Wallace's death with the following poem:
+
+> 莱士已乘赛艇去，蛤蛤依旧笑风生。
+> 垂死病中惊坐起，谈笑风生又一年。
+
+*(Community creation; not attributed to Jiang.)*
+
+---
+
+### ⚠️ CRITICAL: On Circulating "Interview Transcripts" in Chinese
+
+A long, philosophically elaborate Chinese-language text purporting to be a full transcript of the Wallace interview circulates widely online. **This text is not a verified transcript.** Chinese internet communities (including the Pincong.rocks article on 蛤三篇) have noted that neither CBS nor the Chinese side has released a full transcript, and that only partial material from the interview has been confirmed. The long Chinese text is a community reconstruction — likely someone's idealized version of what Jiang should have said. Do not cite it as a primary source.
+
+Verified primary material for this interview is limited to:
+1. The CBS broadcast (September 3, 2000)
+2. The C-SPAN full recording (Program ID 162044)
+3. Kuhn (2004), which reproduces selected exchanges
+4. Foreign Policy (2012), which quotes specific exchanges from the broadcast
+
+---
+
 ## Notes on Attribution
 
 The full transcript of this interview has not been published by CBS in text form. All quotes above are sourced from:

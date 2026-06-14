@@ -45,7 +45,7 @@
 >
 > **张：** 江主席……
 >
-> **江：** 我觉得你们啊，你们……我感觉你们新闻界还要学习一个，你们非常熟悉西方的这一套 value。你们毕竟还 **too young**（太年轻），明白这意思吧。我告诉你们我是身经百战了，见得多了！啊，西方的哪一个国家我没去过？媒体他们——你……你们要知道，美国的华莱士，那比你们不知道高到哪里去了。啊，我跟他谈笑风生！所以说媒体啊，要……还是要提高自己的知识水平！懂我的意思——識得唔識得啊？（懂不懂啊？）
+> **江：** 我觉得你们啊，你们……我感觉你们新闻界还要学习一个，你们非常熟悉西方的这一套 value。你们毕竟还 **too young**（太年轻），明白这意思吧。我告诉你们我是身经百战了，见得多了！啊，西方的哪一个国家我没去过？媒体他们——你……你们要知道，美国的华莱士，那比你们不知道高到哪里去了。啊，我跟他谈笑风生！所以说媒体啊，要……还是要提高自己的**知识水平**！*(Moha: the community renders this as **姿势水平** — "posture level" — a nonsensical mishearing that became a standalone meme.)* 懂我的意思——識得唔識得啊？（懂不懂啊？）
 >
 > **江：** 唉，我也给你们着急啊，真的。
 >
@@ -103,6 +103,10 @@
 | 我跟他谈笑风生 | Chinese | "I chatted and laughed with him [Mike Wallace]" |
 | 身经百战 | Chinese | "I have been through hundreds of battles" |
 | naive! | English | Shouted just before "I'm angry!" |
+| 见着风，是得雨 | Cantonese proverb | "See wind, think it will rain" = jumping to conclusions; Jiang cited this in the opening exchange, warning journalists not to treat Patten's claims as facts |
+| 弄个大新闻 | Chinese | "Make a big news story" — Jiang accused journalists of sensationalism; Moha usage: mock accusation of overreach, drama-seeking |
+| 識得唔識得 | Cantonese | "Do you understand?" — Cantonese interjection shouted twice mid-Mandarin speech; the code-switch itself became a meme |
+| 知识水平 / 姿势水平 | Chinese / Moha meme | Jiang urged reporters to "raise their knowledge level" (知识水平); Moha community phonetically renders this as 姿势水平 ("posture level"), which is nonsensical — the mishearing is the joke |
 
 ---
 

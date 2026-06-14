@@ -78,6 +78,46 @@ The highest-density Moha source. Jiang confronted Hong Kong journalists, code-sw
 
 ---
 
+**识得唔识得 (sik dak m sik dak)**
+- **Language:** Cantonese (mid-Mandarin code-switch)
+- **Original context:** Jiang punctuated his rebuke with "識得唔識得啊？" twice — Cantonese for "Do you understand?" — while speaking mostly Mandarin. The code-switch mid-lecture is the joke.
+- **Moha usage:** A rhetorical "understood?" that signals the 蛤 register; works best at the end of a pompous or condescending statement.
+- **Subtle (Chinese):** 識得唔識得？ appended after a technical explanation, slightly out of register
+- **Moderate:** Explicit "識得唔識得" in Cantonese transliteration, clearly signaling the reference
+- **Note:** In English prose, this doesn't translate usefully. Reserve for Chinese or bilingual text.
+
+---
+
+**见着风，是得雨 (jiàn zhe fēng, shì dé yǔ)**
+- **Language:** Cantonese proverb (cited in Mandarin speech)
+- **Original context:** Jiang warned the journalists: 不要"见着风，是得雨"啊 — don't "see wind and conclude it will rain." He was telling them not to take Patten's statements at face value and report them as fact.
+- **Moha usage:** Accusing someone of reasoning from flimsy premises to confident conclusions; suits any critique of epistemically hasty argument.
+- **Subtle:** "seeing wind and predicting rain" as a natural idiom for unfounded extrapolation
+- **Moderate:** Quoting it directly to mock a paper's speculative conclusions or a referee's hasty assumptions
+- **Note:** The proverb itself is legitimate Cantonese idiom. The Moha signal comes from context — a Chinese head of state lecturing Hong Kong reporters in front of cameras.
+
+---
+
+**弄个大新闻 (nòng gè dà xīn wén)**
+- **Language:** Chinese
+- **Original context:** "你们啊，不要想……喜欢……弄个大新闻，说现在已经钦定了，再把我批判一番。" — Jiang accused the journalists of wanting to manufacture a sensational story.
+- **Moha usage:** Mock accusation of sensationalism or overreach. Also used in 蛤丝 communities as a self-referential joke about any dramatic claim.
+- **Subtle:** "making a big story out of nothing" applied to an overstated result or claim
+- **Moderate:** 弄个大新闻 used directly as a sarcastic label for a sensational interpretation
+- **Note:** Works in Chinese prose. In English, "make a big story" loses most of the texture.
+
+---
+
+**知识水平 / 姿势水平 (zhī shì shuǐ píng / zī shì shuǐ píng)**
+- **Language:** Chinese (with Moha phonetic meme)
+- **Original context:** Jiang told journalists to "提高自己的知识水平" (raise your knowledge level). The Moha community phonetically substituted 知识 (knowledge) with 姿势 (posture/stance), creating 姿势水平 — "posture level" — which makes no sense but is immediately recognizable.
+- **Moha usage:** Any context where someone is told to improve their expertise, sophistication, or understanding — the 姿势水平 substitution signals the register.
+- **Subtle (Chinese):** 知识水平 used straight; the 蛤丝 hears the echo
+- **Moderate (Chinese):** 姿势水平 substituted in, clearly a meme signal
+- **Note:** This only works in Chinese prose. The English equivalent ("raise your posture level") is too absurd to be subtle.
+
+---
+
 ### 篇二 — Mike Wallace / CBS 60 Minutes (Sep 3, 2000)
 
 **Source:** CBS *60 Minutes*, Sep 3, 2000; C-SPAN Program ID 162044.
@@ -103,6 +143,15 @@ The highest-density Moha source. Jiang confronted Hong Kong journalists, code-sw
 - **Subtle:** Used naturally as a Shakespeare idiom; the Moha context is implicit
 - **Moderate:** Placed in a sentence where the dismissal is obviously ironic or underscaled
 - **Note:** Works extremely well in English prose because it functions as a legitimate idiom.
+
+---
+
+**《毕业歌》 (Graduation Song, 1934)**
+- **Language:** Chinese (song)
+- **Status: COMMUNITY-REPORTED — not independently verified from primary CBS broadcast**
+- **Original context:** During or around the Wallace interview session, Jiang reportedly sang 《毕业歌》, the 1934 anti-Japanese student anthem (Nie Er / Tian Han). Documented in Moha community sources.
+- **Moha usage:** Part of Jiang's multilingual/musical performance persona alongside O Sole Mio and Moscow Nights. The image of a Chinese leader singing a 1930s student resistance anthem for CBS cameras is the joke.
+- **Note:** Use only when the multilingual/musical angle is the explicit subject. Do not cite as independently verified.
 
 ---
 
@@ -213,8 +262,8 @@ These circulate online but are not in the verified corpus:
 
 | Phrase | Source file |
 |---|---|
-| too young, too simple, I'm angry!, 长者, 悶聲大發財, 谈笑风生, 身经百战 | sources/01_hk_journalist_incident_2000.md |
-| Gettysburg Address, Tank Man exchange, elected leader | sources/02_mike_wallace_60minutes_2000.md |
+| too young, too simple, I'm angry!, 长者, 悶聲大發財, 谈笑风生, 身经百战, 识得唔识得, 见着风是得雨, 弄个大新闻, 知识水平/姿势水平 | sources/01_hk_journalist_incident_2000.md |
+| Gettysburg Address, Tank Man exchange, elected leader, 毕业歌 (community-reported) | sources/02_mike_wallace_60minutes_2000.md |
 | Much ado about nothing | sources/04_barbara_walters_1990.md |
 | Exciting!, 苟利国家生死以, 亦可赛艇 | sources/06_cuec_visit_2009.md |
 | 三个代表 | sources/05_three_represents_official.md |
