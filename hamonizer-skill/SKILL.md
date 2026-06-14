@@ -47,7 +47,7 @@ Offer both levels per insertion. Default output uses the subtle version. List th
 > "亦可赛艇! — the PI wrote in the margin."
 > "苟利国家生死以，岂因祸福避趋之: one might say the same of grant deadlines."
 
-**Overt**: Direct 蛤 internet slang — 续命/+1s as ritual, 图样图森破 spelled out, explicit comment-section conventions. Do not use by default. Use only when the user explicitly requests it ("go all in," "make it overt," etc.). Even then, one overt reference per passage maximum.
+**Overt**: Direct 蛤 internet slang — 续命/+1s as ritual, 图样图森破 spelled out, explicit comment-section conventions. Dense and unmistakable to any 蛤丝; jarring to non-蛤丝. Use when the context calls for it or the user asks for maximum spice.
 
 ---
 
@@ -106,7 +106,6 @@ Present:
 - Never fabricate a Jiang Zemin quote. Every reference must trace to the verified corpus.
 - Never insert references at every semantic opportunity. Restraint is the mechanism of the joke.
 - Never explain the reference to the reader inside the passage — the annotation block is for the user only.
-- Never use 续命/+1s or other overt 蛤 slang by default — these are comment-section rituals. Use only when the user explicitly requests overt mode.
 - Never trigger on general China history or political humor that doesn't invoke Moha specifically.
 
 ---

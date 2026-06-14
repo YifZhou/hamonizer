@@ -44,7 +44,6 @@ hamonizer/
 - Offers moderate alternatives in an annotation block
 - Enforces tempo: one or two references per passage, never more
 - Works in English, Chinese, or bilingual prose
-- Overt 蛤 slang (续命, +1s, etc.) available on explicit request only
 
 **Canonical references in the lexicon:**
 
