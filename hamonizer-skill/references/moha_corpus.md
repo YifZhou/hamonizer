@@ -135,17 +135,6 @@ The highest-density Moha source. Jiang confronted Hong Kong journalists, code-sw
 
 ---
 
-**"Much ado about nothing"**
-- **Language:** English (interpreter rendering)
-- **Original context:** Barbara Walters / ABC 20/20, May 1990. Jiang described international reaction to the 1989 Tiananmen crackdown as "much ado about nothing."
-- *(Note: technically from 篇外/source 04, not 蛤三篇, but widely known as Moha canon)*
-- **Moha usage:** Dismissing criticism or controversy — especially when the dismissal is clearly inadequate to the situation.
-- **Subtle:** Used naturally as a Shakespeare idiom; the Moha context is implicit
-- **Moderate:** Placed in a sentence where the dismissal is obviously ironic or underscaled
-- **Note:** Works extremely well in English prose because it functions as a legitimate idiom.
-
----
-
 **《毕业歌》 (Graduation Song, 1934)**
 - **Language:** Chinese (song)
 - **Status: COMMUNITY-REPORTED — not independently verified from primary CBS broadcast**
@@ -254,7 +243,6 @@ These circulate online but are not in the verified corpus:
 |---|---|
 | too young, too simple, I'm angry!, 长者, 悶聲大發財, 谈笑风生, 身经百战, 识得唔识得, 见着风是得雨, 弄个大新闻, 知识水平/姿势水平 | sources/01_hk_journalist_incident_2000.md |
 | Gettysburg Address, Tank Man exchange, elected leader, 毕业歌 (community-reported) | sources/02_mike_wallace_60minutes_2000.md |
-| Much ado about nothing | sources/04_barbara_walters_1990.md |
 | Excited!, 苟利国家生死以, 亦可赛艇, 微小的工作, 一个人的命运, 另请高明 | sources/06_cuec_visit_2009.md |
 | 三个代表 | sources/05_three_represents_official.md |
 | O Sole Mio, Moscow Nights | sources/07_multilingual_performances.md |

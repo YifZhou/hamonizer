@@ -61,7 +61,6 @@ Offer both levels per insertion. Default output uses the subtle version. List th
    |---|---|
    | Elders, seniority, wisdom, authority | 长者 |
    | Youthful naivety, overconfidence, inexperience | "too young, too simple, sometimes naïve" |
-   | Dismissiveness, minimizing criticism | "much ado about nothing" |
    | Excitement, pleasant surprise | "Excited!" / 亦可赛艇 |
    | Principled duty, sacrifice for a cause | 苟利国家生死以，岂因祸福避趋之 |
    | Improbable career outcome, fate vs. effort | 一个人的命运啊，当然要靠自我奋斗，但是也要考虑到历史的行程 |

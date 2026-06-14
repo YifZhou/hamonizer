@@ -56,8 +56,7 @@ hamonizer/
 | 悶聲大發財 | 蛤三篇 篇一 |
 | 谈笑风生 | 蛤三篇 篇一/篇二 |
 | Gettysburg Address | 蛤三篇 篇二 (Mike Wallace interview, 2000) |
-| "much ado about nothing" | Barbara Walters interview, 1990 |
-| "Exciting!" / 亦可赛艇 | 蛤三篇 篇三 (CUEC visit, 2009) |
+| "Excited!" / 亦可赛艇 | 蛤三篇 篇三 (CUEC visit, 2009) |
 | 苟利国家生死以，岂因祸福避趋之 | 蛤三篇 篇三 |
 
 ---
@@ -90,9 +89,9 @@ Hamonized:
 
 **English — satire (moderate)**
 
-> Anthropic has long cast itself as the only adult in a room full of reckless AI optimists — warning of extinction risks, advocating for government oversight, asking customers to accept unusual data retention policies, all in the name of safety. When the government finally exercised the oversight Anthropic had spent years requesting, the company's defense was that the jailbreak was, essentially, much ado about nothing: no worse than GPT-5.5's, used by defenders every day. The company had been, it turns out, too young, too simple, sometimes naïve in its belief that years of safety advocacy would translate into favorable treatment when regulators actually came calling.
+> Anthropic has long cast itself as the only adult in a room full of reckless AI optimists — warning of extinction risks, advocating for government oversight, asking customers to accept unusual data retention policies, all in the name of safety. When the government finally exercised the oversight Anthropic had spent years requesting, the company's defense was essentially a Lincoln quotation in reverse: this was not government of the people, by the people, for the people — this was government overreach. The company had been, it turns out, too young, too simple, sometimes naïve in its belief that years of safety advocacy would translate into favorable treatment when regulators actually came calling.
 
-*Two references: "much ado about nothing" (Jiang on Tiananmen, 1990) and the full "too young, too simple, sometimes naïve." The Tiananmen parallel is left implicit.*
+*Two references: Gettysburg Address ("government of the people, by the people, for the people") inverted as democratic legitimacy Anthropic suddenly disputes; "too young, too simple, sometimes naïve" for Anthropic's naivety about regulatory outcomes.*
 
 ---
 
