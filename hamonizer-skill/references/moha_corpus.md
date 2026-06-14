@@ -108,29 +108,69 @@ The highest-density Moha source. Jiang confronted Hong Kong journalists, code-sw
 
 ### 篇三 — CUEC / 国机二院 Visit (Apr 23, 2009)
 
-**Source:** Video footage; The China Project, Nov 30, 2022.
+**Source:** Full verbatim transcript from video footage, preserved by 蛤丝 community (Steam group transcript, May 2017): https://steamcommunity.com/groups/mohaxuming/discussions/1/1319962683447680086/
 
 ---
 
-**"Exciting!" / 亦可赛艇 / 一颗赛艇 (yì kě sài tǐng)**
+**"Excited!" / 亦可赛艇 / 一颗赛艇 (yì kě sài tǐng)**
 - **Language:** English exclamation, phonetically rerendered in Chinese internet culture
-- **Original context:** Jiang exclaimed "Exciting!" (some sources: "Excited!") upon receiving a gift from the China United Engineering Corporation.
-- **Moha usage:** Moments of genuine or mock enthusiasm. "亦可赛艇" is the Chinese phonetic meme form, used as a comment-section reaction.
-- **Subtle (English):** "Exciting!" used as a standalone exclamation in a context where it's slightly incongruous with the formal tone
+- **Original context:** Upon receiving a commemorative gift and writing his calligraphic inscription, Jiang exclaimed: "你们给我搞的这本东西啊，Excited!" Verbatim transcript confirms "Excited!" (earlier sources said "Exciting!"; this resolves the ambiguity).
+- **Moha usage:** Moments of genuine or mock enthusiasm. "亦可赛艇" is the Chinese phonetic meme form, used as a standalone comment-section reaction.
+- **Subtle (English):** "Excited!" as a standalone exclamation slightly incongruous with formal tone
 - **Moderate (Chinese):** 亦可赛艇 or 一颗赛艇 as a reaction
 - **Moderate (bilingual):** "亦可赛艇 — as it were" in English prose
 - **Note:** The phonetic form (亦可赛艇) is more recognizable to 蛤丝 than the English original in Chinese prose.
 
 ---
 
+**很惭愧，就做了一点微小的工作**
+- **Language:** Chinese
+- **Original context:** After listing three presidency-scale achievements — establishing the socialist market economy, enshrining Deng's theory in the Party charter, and creating 三个代表 — Jiang closed with: "很惭愧，就做了一点微小的工作，谢谢大家." (I am ashamed, I only did a tiny bit of work, thank you everyone.)
+- **Moha usage:** The defining Moha understatement. Use when someone lists substantial achievements and then dismisses them with false modesty. Irony is structural: the more significant the work, the funnier the 微小.
+- **Subtle:** "one might say, with appropriate humility, that the contribution was — well — tiny" applied to something manifestly large
+- **Moderate (Chinese):** 很惭愧，就做了一点微小的工作 as a closing line after describing actual accomplishments
+- **Note:** Works best as a punchline after a list. The three-things structure (三件事) followed by 微小的工作 is the canonical delivery.
+
+---
+
+**一个人的命运啊，当然要靠自我奋斗，但是也要考虑到历史的行程**
+- **Language:** Chinese
+- **Original context:** Jiang reflecting on his improbable rise from Shanghai Party Secretary to General Secretary: "人呐就都不知道，自己就不可以预料。一个人的命运啊，当然要靠自我奋斗，但是也要考虑到历史的行程。"
+- **Moha usage:** Explaining any improbable career outcome as the product of both personal effort and historical forces — the Moha equivalent of "it is what it is," but with philosophical grandeur.
+- **Subtle:** "one's fate, of course, depends on one's own efforts — but also on the course of history" applied to any unlikely turn of events
+- **Moderate:** Quoting the Chinese directly as a philosophical gloss on someone's career trajectory
+- **Note:** Often used ironically to explain things that had nothing to do with either self-struggle or historical forces.
+
+---
+
+**另请高明**
+- **Language:** Chinese
+- **Original context:** When Deng Xiaoping told Jiang "中央都决定啦，你来当总书记," Jiang replied: "我说另请高明吧。" (Please find someone more capable.) Deng ignored this and told him the decision was final.
+- **Moha usage:** False modesty when offered an important role; ironic refusal before inevitable acceptance.
+- **Subtle:** "Another might be better suited" as a pro-forma disclaimer before doing the thing anyway
+- **Moderate:** 另请高明 as a direct quotation in a context of mock-reluctant acceptance
+- **Note:** Works best paired with the acceptance: the modesty and the compliance are the joke together.
+
+---
+
 **苟利国家生死以，岂因祸福避趋之**
 - **Language:** Classical Chinese (Lin Zexu poem, 1842)
-- **Original context:** Jiang cited this Lin Zexu couplet during the CUEC visit as a statement of principled duty. The second line: "Would I let fortune or misfortune determine my path?"
-- **Moha usage:** Invoking principled self-sacrifice — especially in contexts where the "sacrifice" is modest (an inconvenient deadline, a difficult referee, a thankless committee role).
-- **Subtle:** Quoting it in a discussion of scientific duty or career sacrifice — it functions as a legitimate classical allusion
-- **Moderate:** Quoting it for something trivially inconvenient, letting the irony do the work
+- **Original context:** After Deng insisted on the appointment, Jiang accepted by reciting this Lin Zexu couplet: "苟利国家生死以，岂因祸福避趋之，那麼所以我就到了北京。" (If it serves the nation I will give my life; shall I be deterred by fortune or misfortune — and so I went to Beijing.)
+- **Moha usage:** Invoking principled self-sacrifice when accepting an unwanted burden. The gap between the classical register and the actual burden is the joke.
+- **Subtle:** Quoting it for a career sacrifice that functions as a legitimate classical allusion
+- **Moderate:** Quoting it for something trivially inconvenient (a grant deadline, a committee role, a difficult referee)
 - **Full couplet:** 苟利国家生死以，岂因祸福避趋之
-- **Note:** The classical register makes this work in formal Chinese prose. In English, a translation ("If it serves the nation, I will give my life; shall I be deterred by fortune or misfortune?") carries the Moha signal only for readers who know the source.
+- **Note:** The classical register elevates even mundane self-sacrifice. In English, translation only carries the signal for readers who know the source.
+
+---
+
+**天堂的下面是你们的天堂**
+- **Language:** Chinese
+- **Original context:** Final words of the visit, addressed to the engineers: "天堂的下面是你们的天堂。" Adapts the classical saying 上有天堂，下有苏杭 (Above is heaven; below are Suzhou and Hangzhou) into a direct benediction.
+- **Moha usage:** Mock-cosmological praise; elevating any group or institution to near-divine status with a knowing misquotation. Also used as a closing benediction in 蛤丝 communities.
+- **Subtle:** "a kind of heaven for those who work here" as natural workplace praise; the classical echo is implicit
+- **Moderate:** 天堂的下面是你们的天堂 quoted directly as a closing line
+- **Note:** Particularly effective as a final sentence. The misquotation of the classical saying is part of the charm — Jiang made it his own.
 
 ---
 
