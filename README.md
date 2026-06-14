@@ -62,6 +62,40 @@ hamonizer/
 
 ---
 
+## Examples
+
+**English — scientific abstract (subtle)**
+
+Original:
+> We present a new method for measuring stellar ages using asteroseismic data combined with photometric variability. Our approach improves on existing techniques by incorporating machine learning to reduce systematic uncertainties. We demonstrate this on a sample of 500 solar-type stars from the Kepler mission. The results suggest that previous age estimates were overoptimistic, particularly for young stars.
+
+Hamonized:
+> We present a new method for measuring stellar ages using asteroseismic data combined with photometric variability. Our approach improves on existing techniques by incorporating machine learning to reduce systematic uncertainties. We demonstrate this on a sample of 500 solar-type stars from the Kepler mission. The results suggest that previous age estimates were overoptimistic — particularly for young stars, whose parameters one might describe as, in a word, too simple.
+
+*"too simple" reads as parameter-fitting shorthand. 蛤丝 catch the echo immediately.*
+
+---
+
+**中文 — 学术邮件（较隐晦）**
+
+原文：
+> 尊敬的王教授，您好。感谢您上次在会议上的宝贵意见。我目前正在修改我们的论文，并已按照您的建议对第三节进行了修改。附件是修改后的版本，请您在百忙之中抽空指正。
+
+膜蛤版：
+> 尊敬的王教授，您好。感谢**长者**上次在会议上的宝贵意见。我目前正在修改我们的论文，并已按照您的建议对第三节进行了修改。附件是修改后的版本，请您在百忙之中抽空指正。
+
+*以"长者"替换"您"，对非蛤丝读来是书面敬称，对蛤丝则信号清晰。*
+
+---
+
+**English — satire (moderate)**
+
+> Anthropic has long cast itself as the only adult in a room full of reckless AI optimists — warning of extinction risks, advocating for government oversight, asking customers to accept unusual data retention policies, all in the name of safety. When the government finally exercised the oversight Anthropic had spent years requesting, the company's defense was that the jailbreak was, essentially, much ado about nothing: no worse than GPT-5.5's, used by defenders every day. The company had been, it turns out, too young, too simple, sometimes naïve in its belief that years of safety advocacy would translate into favorable treatment when regulators actually came calling.
+
+*Two references: "much ado about nothing" (Jiang on Tiananmen, 1990) and the full "too young, too simple, sometimes naïve." The Tiananmen parallel is left implicit.*
+
+---
+
 ## The quote corpus
 
 The `quotes/` directory contains verified primary-source material: full transcripts, official texts, and performance records covering 1990–2009. All quotes are stored in their original spoken language. Internet fabrications are excluded. See `quotes/README.md` for the full verification policy.
