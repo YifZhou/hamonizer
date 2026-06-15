@@ -68,7 +68,8 @@ Offer both levels per insertion. Default output uses the subtle version. List th
    | Listing achievements then dismissing them | 很惭愧，就做了一点微小的工作 |
    | Charming, relaxed conversation or collaboration | 谈笑风生 |
    | Making money quietly, discretion | 悶聲大發財 |
-   | Democracy, people's government, equality | Gettysburg Address angle |
+   | Democracy, people's government, equality | Gettysburg Address angle — closing line ("government of the people...") |
+   | Something ancient was brought forth, tested by time, now examined for survival | Gettysburg Address — opening and middle movements ("Four score and seven... brought forth... testing whether... can long endure") |
    | Anger, indignation | "I'm angry!" |
    | Battle-tested experience | 身经百战 |
    | Expertise, sophistication, intellectual level | 知识水平 (subtle) / 姿势水平 (moderate, Chinese only) |
@@ -110,6 +111,64 @@ Present:
 - Never insert references at every semantic opportunity. Restraint is the mechanism of the joke.
 - Never explain the reference to the reader inside the passage — the annotation block is for the user only.
 - Never trigger on general China history or political humor that doesn't invoke Moha specifically.
+
+---
+
+## Advanced techniques: beyond lexical insertion
+
+The skill's core framework is *lexical* — a recognizable phrase appears in a new context. But Moha humor has additional mechanisms that work especially well at the subtle setting, and that expand what counts as a "reference."
+
+---
+
+### 1. Structural mimicry
+
+Reproduce the *rhetorical architecture* of a source without quoting it directly. The Moha signal is the shape, not the words.
+
+The Gettysburg Address has a three-part movement:
+
+> **Founding:** "X ago our fathers brought forth... conceived in Y and dedicated to the proposition that Z."
+> **Crisis:** "Now we are engaged in... testing whether that [thing], or any [thing] so conceived and so dedicated, can long endure."
+> **Legacy:** "...shall not perish from the earth."
+
+Each slot is independently reusable. Substitute new content into the cadence and the structure carries the reference — a 蛤丝 who knows Jiang recited the *whole Address* from memory for Wallace will recognize the skeleton even when every word has been replaced.
+
+**Example (scientific abstract):**
+> "Four score and seven million years ago, the solar nebula brought forth in this disk a new generation of planetesimals, conceived in streaming instability and dedicated to the proposition that dust and gas, properly arranged, can collapse. Now we are engaged in a great theoretical effort, testing whether those objects, or any objects so conceived and so dedicated, can long endure."
+
+Non-蛤丝: an unusually grandiloquent preamble. 蛤丝: the full Address, Jiang, Wallace, 篇二, in one paragraph.
+
+The 三件事→微小 structure (篇三) is also a *form*, not just a phrase: enumerate three substantial achievements, then dismiss them all as 微小的工作. The skill already uses this as a closing punchline, but it can be deployed mid-passage whenever a list of results precedes a false-modesty clause.
+
+---
+
+### 2. Cadence substitution
+
+The "conceived in X and dedicated to the proposition that Y" slot is infinitely generative. Any two-part founding claim with sufficient formality can be substituted in. The humor mechanism: the cadence becomes recognizable *before* the content is processed, so the reader experiences a half-second of cognitive dissonance — "why does this sound like Lincoln?" — before the content resolves it.
+
+This is distinct from quoting. It is closer to singing a melody with different lyrics: the tune is the signal.
+
+---
+
+### 3. Delayed recognition
+
+Standard Moha insertion assumes the reader recognizes the reference immediately upon encountering it. Structural mimicry enables *delayed recognition*: the reader first processes the surface content (Lincoln, or a philosophical reflection on fate), then — sometimes sentences later — completes the Moha layer (Jiang memorized Lincoln; Jiang said this about his own career).
+
+Delayed recognition is the most deniable mechanism and the most appropriate for the **subtle setting**. The reference is present from the moment of insertion, but it only *activates* when the reader's background knowledge catches up. A non-蛤丝 never completes the circuit. A 蛤丝 gets a second laugh after the first sentence has passed.
+
+---
+
+### 4. Multi-insertion coherence (arcing)
+
+The skill warns against density — too many insertions destroys the joke. But two insertions from the *same source event* placed at structurally distant points in a passage can form a silent arc that rewards a rereading. This is distinct from stacking.
+
+**Example:** Deploying the Gettysburg opening movement at the start of an abstract, then embedding "shall not perish from the disk" (closing line) inside a technical sentence mid-passage. Neither references the other. A non-蛤丝 sees Lincoln used twice. A 蛤丝 recognizes that the full Address has been distributed across the abstract — beginning, middle, and end — the way Jiang performed it for Wallace: complete, from memory, start to finish.
+
+Arcing works only when:
+- Both insertions are from the same source event
+- They are separated by enough prose that the second feels discovered rather than expected
+- The second insertion is *structurally* later in the source than the first (i.e., they appear in the passage in the same order they appear in the original)
+
+Arcing across different source events (篇一 + 篇三) does not produce this effect — it just raises density.
 
 ---
 
