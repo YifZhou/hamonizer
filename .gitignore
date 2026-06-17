@@ -23,8 +23,8 @@ venv/
 env/
 .env
 
-# Packaged skill (regenerated from hamonizer-skill/)
-*.skill
+# back-up files
+*.bak
 
 # Temporary files
 *.tmp
