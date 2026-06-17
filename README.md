@@ -1,6 +1,6 @@
 # Hamonizer
 
-A Claude skill for weaving subtle Moha (膜蛤) references into prose.
+A Claude skill for weaving subtle Moha (膜蛤) references into prose. To install it to Claude, drop the .skill file to Claude.
 
 Moha (膜蛤, "toad worship") is a Chinese internet subculture built around ironic, affectionate admiration of Jiang Zemin's theatrical persona — his multilingual showmanship, unguarded rhetoric, and memorable outbursts. Participants, called 蛤丝, treat canonical Jiang moments as a shared cultural lexicon.
 
@@ -35,6 +35,7 @@ hamonizer/
 **Trigger:** Only activates when you explicitly mention Jiang Zemin / 江泽民, moha / 膜蛤 / 蛤丝, or use the command `hamonize this paragraph`.
 
 **What it does:**
+
 - Reads a prose passage and finds natural insertion points for Moha references
 - Defaults to subtle insertions (plausibly deniable to non-蛤丝)
 - Offers moderate alternatives in an annotation block
@@ -43,16 +44,16 @@ hamonizer/
 
 **Canonical references in the lexicon:**
 
-| Phrase | Source |
-|---|---|
+| Phrase                                    | Source                                     |
+| ----------------------------------------- | ------------------------------------------ |
 | "too young, too simple, sometimes naïve" | 蛤三篇 篇一 (HK journalist incident, 2000) |
-| "I'm angry!" | 蛤三篇 篇一 |
-| 长者 (the elder) | 蛤三篇 篇一 |
-| 悶聲大發財 | 蛤三篇 篇一 |
-| 谈笑风生 | 蛤三篇 篇一/篇二 |
-| Gettysburg Address | 蛤三篇 篇二 (Mike Wallace interview, 2000) |
-| "Excited!" / 亦可赛艇 | 蛤三篇 篇三 (CUEC visit, 2009) |
-| 苟利国家生死以，岂因祸福避趋之 | 蛤三篇 篇三 |
+| "I'm angry!"                              | 蛤三篇 篇一                                |
+| 长者 (the elder)                          | 蛤三篇 篇一                                |
+| 悶聲大發財                                | 蛤三篇 篇一                                |
+| 谈笑风生                                  | 蛤三篇 篇一/篇二                           |
+| Gettysburg Address                        | 蛤三篇 篇二 (Mike Wallace interview, 2000) |
+| "Excited!" / 亦可赛艇                     | 蛤三篇 篇三 (CUEC visit, 2009)             |
+| 苟利国家生死以，岂因祸福避趋之            | 蛤三篇 篇三                                |
 
 ---
 
@@ -61,9 +62,11 @@ hamonizer/
 **English — scientific abstract (subtle)**
 
 Original:
+
 > We present a new method for measuring stellar ages using asteroseismic data combined with photometric variability. Our approach improves on existing techniques by incorporating machine learning to reduce systematic uncertainties. We demonstrate this on a sample of 500 solar-type stars from the Kepler mission. The results suggest that previous age estimates were overoptimistic, particularly for young stars.
 
 Hamonized:
+
 > We present a new method for measuring stellar ages using asteroseismic data combined with photometric variability. Our approach improves on existing techniques by incorporating machine learning to reduce systematic uncertainties. We demonstrate this on a sample of 500 solar-type stars from the Kepler mission. The results suggest that previous age estimates were overoptimistic — particularly for young stars, whose parameters one might describe as, in a word, too simple.
 
 *"too simple" reads as parameter-fitting shorthand. 蛤丝 catch the echo immediately.*
@@ -73,9 +76,11 @@ Hamonized:
 **中文 — 学术邮件（较隐晦）**
 
 原文：
+
 > 尊敬的王教授，您好。感谢您上次在会议上的宝贵意见。我目前正在修改我们的论文，并已按照您的建议对第三节进行了修改。附件是修改后的版本，请您在百忙之中抽空指正。
 
 膜蛤版：
+
 > 尊敬的王教授，您好。感谢**长者**上次在会议上的宝贵意见。我目前正在修改我们的论文，并已按照您的建议对第三节进行了修改。附件是修改后的版本，请您在百忙之中抽空指正。
 
 *以"长者"替换"您"，对非蛤丝读来是书面敬称，对蛤丝则信号清晰。*
